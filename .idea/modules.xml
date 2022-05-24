@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Shop.iml" filepath="$PROJECT_DIR$/.idea/Shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/shop-common/shop-common.iml" filepath="$PROJECT_DIR$/parent/shop-common/shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/shop-eureka/shop-eureka.iml" filepath="$PROJECT_DIR$/parent/shop-eureka/shop-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/shop-gateway/shop-gateway.iml" filepath="$PROJECT_DIR$/parent/shop-gateway/shop-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/shop-service/shop-service.iml" filepath="$PROJECT_DIR$/parent/shop-service/shop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/shop-service-api/shop-service-api.iml" filepath="$PROJECT_DIR$/parent/shop-service-api/shop-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/shop-web/shop-web.iml" filepath="$PROJECT_DIR$/parent/shop-web/shop-web.iml" />
+    </modules>
+  </component>
+</project>
